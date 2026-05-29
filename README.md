@@ -97,13 +97,7 @@ My goal is to build innovative software products that combine AI, education, com
 
 ---
 
-## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasmansuri686-eng&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmansuri686-eng&layout=compact)
-
----
 
 ### Always Building. Always Learning. 🚀- CSS3
 
