@@ -98,8 +98,7 @@ My goal is to build innovative software products that combine AI, education, com
 ---
 
 
-
-### Always Building. Always Learning. 🚀- CSS3
+### Always Building. Always Learning. 🚀
 
 ## Backend Development
 
