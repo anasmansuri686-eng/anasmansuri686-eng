@@ -93,6 +93,71 @@ My goal is to build innovative software products that combine AI, education, com
 
 - LinkedIn: https://linkedin.com/in/anas-mansuri-a0aa98338
 - GitHub: https://github.com/anasmansuri686-eng
+- Instagram: https://instagram.com/sylphax_ai
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasmansuri686-eng&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmansuri686-eng&layout=compact)
+
+---
+
+### Always Building. Always Learning. 🚀- CSS3
+
+## Backend Development
+
+- Node.js
+- Express.js
+- Django
+
+## Databases
+
+- MongoDB
+- PostgreSQL
+
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- AI Systems
+- LLM Applications
+
+## Problem Solving
+
+- C++
+- Data Structures and Algorithms (DSA)
+
+## Other Technologies
+
+- Git & GitHub
+- REST APIs
+- Blockchain
+
+---
+
+# Mission
+
+My goal is to build innovative software products that combine AI, education, communication, and scalable technology to solve real-world problems and create meaningful digital experiences.
+
+---
+
+# Current Focus
+
+- Building AI-powered products
+- Creating scalable software systems
+- Developing communication platforms
+- Enhancing learning through AI
+- Exploring advanced AI applications
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/anas-mansuri-a0aa98338
+- GitHub: https://github.com/anasmansuri686-eng
 
 ---
 
