@@ -1,16 +1,99 @@
-## Hi there 👋
+# Hi, I'm Anas Mansuri 👋
 
-<!--
-**anasmansuri686-eng/anasmansuri686-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder, Developer & AI Product Builder
 
-Here are some ideas to get you started:
+I am building technology products focused on Artificial Intelligence, communication platforms, and modern learning experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Ventures
+
+## SylphaX AI
+
+An AI fusion platform that integrates multiple leading AI systems to provide intelligent responses, advanced reasoning, and enhanced user experiences through a unified interface.
+
+## Sylpha AI
+
+An experimental AI assistant project focused on human-like interaction, contextual understanding, memory, decision support, and advanced conversational experiences.
+
+## ChatVuna
+
+A global communication platform featuring real-time text chat matching and video matching, designed to connect people around the world through instant interactions.
+
+## ShadoX AI Learn
+
+An AI-powered learning platform where creators can upload educational videos and courses. Learners can interact with AI while watching content, ask questions, receive explanations, and get learning assistance without leaving the video experience.
+
+---
+
+# Technical Focus
+
+## Programming Languages
+
+- JavaScript
+- Python
+- C++
+
+## Frontend Development
+
+- React.js
+- Next.js
+- React Native
+- HTML5
+- CSS3
+
+## Backend Development
+
+- Node.js
+- Express.js
+- Django
+
+## Databases
+
+- MongoDB
+- PostgreSQL
+
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- AI Systems
+- LLM Applications
+
+## Problem Solving
+
+- C++
+- Data Structures and Algorithms (DSA)
+
+## Other Technologies
+
+- Git & GitHub
+- REST APIs
+- Blockchain
+
+---
+
+# Mission
+
+My goal is to build innovative software products that combine AI, education, communication, and scalable technology to solve real-world problems and create meaningful digital experiences.
+
+---
+
+# Current Focus
+
+- Building AI-powered products
+- Creating scalable software systems
+- Developing communication platforms
+- Enhancing learning through AI
+- Exploring advanced AI applications
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/anas-mansuri-a0aa98338
+- GitHub: https://github.com/anasmansuri686-eng
+
+---
+
+### Always Building. Always Learning.
